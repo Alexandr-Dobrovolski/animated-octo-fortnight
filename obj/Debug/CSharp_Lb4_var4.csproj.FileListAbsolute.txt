@@ -1,0 +1,108 @@
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\CSharp_Lb4_var4.exe.config
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\CSharp_Lb4_var4.exe
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\CSharp_Lb4_var4.pdb
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.AssemblyReference.cache
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormMain.resources
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.Properties.Resources.resources
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.GenerateResource.cache
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.CoreCompileInputs.cache
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.exe
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.pdb
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Buffers.dll
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Memory.dll
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Json.dll
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.ValueTuple.dll
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Buffers.xml
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Memory.xml
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Json.xml
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.ValueTuple.xml
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.CopyComplete
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormCreateDepartment.resources
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormControlEmployees.resources
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormEditEmployees.resources
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormControlDepartment.resources
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormSelectDepartment.resources
+C:\Users\vlad3\OneDrive\Desktop\Projects\C#\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormTransferEmployee.resources
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\CSharp_Lb4_var4.exe.config
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\CSharp_Lb4_var4.exe
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\CSharp_Lb4_var4.pdb
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Buffers.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Memory.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Numerics.Vectors.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Encodings.Web.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Json.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.ValueTuple.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Buffers.xml
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Memory.xml
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Numerics.Vectors.xml
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Encodings.Web.xml
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Json.xml
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.ValueTuple.xml
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.AssemblyReference.cache
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.SuggestedBindingRedirects.cache
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormControlDepartment.resources
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormControlEmployees.resources
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormCreateDepartment.resources
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormEditEmployees.resources
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormMain.resources
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormSelectDepartment.resources
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormTransferEmployee.resources
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.Properties.Resources.resources
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.GenerateResource.cache
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.CoreCompileInputs.cache
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.CopyComplete
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.exe
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\C# Та Платформа .NET\CSharp_Lb4_var4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.pdb
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\CSharp_Lb4_var4.exe.config
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\CSharp_Lb4_var4.exe
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\CSharp_Lb4_var4.pdb
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Buffers.dll
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Memory.dll
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Numerics.Vectors.dll
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Encodings.Web.dll
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Json.dll
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.ValueTuple.dll
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Buffers.xml
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Memory.xml
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Numerics.Vectors.xml
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Encodings.Web.xml
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Text.Json.xml
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\bin\Debug\System.ValueTuple.xml
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.AssemblyReference.cache
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.SuggestedBindingRedirects.cache
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormControlDepartment.resources
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormControlEmployees.resources
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormCreateDepartment.resources
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormEditEmployees.resources
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormMain.resources
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormSelectDepartment.resources
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.FormTransferEmployee.resources
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.Properties.Resources.resources
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.GenerateResource.cache
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.CoreCompileInputs.cache
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.csproj.CopyComplete
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.exe
+D:\учеба\3 курс 2 семестр\C#\4 лаба\csharp_lab4_variant4\csharp_lab4_variant4\CSharp_Lb4_var4\CSharp_Lb4_var4\obj\Debug\CSharp_Lb4_var4.pdb
